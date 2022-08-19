@@ -1,0 +1,44 @@
+.box-1 {
+    cursor: pointer;
+    float: left;
+    transition: 0.5s;
+    color: black;
+}
+
+.box-1:hover {
+    transform: scale(1.1);
+    box-shadow: 1px;
+}
+
+.box-2 {
+    cursor: pointer;
+    float: left;
+    transition: 0.5s;
+}
+
+.box-2:hover {
+    transform: scale(1.1);
+    box-shadow: 1px;
+}
+
+.box-3 {
+    cursor: pointer;
+    float: left;
+    transition: 0.5s;
+}
+
+.box-3:hover {
+    transform: scale(1.1);
+    box-shadow: 1px;
+}
+
+.box-4 {
+    cursor: pointer;
+    float: left;
+    transition: 0.5s;
+}
+
+.box-4:hover {
+    transform: scale(1.2);
+    box-shadow: 1px;
+}
